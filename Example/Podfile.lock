@@ -1,0 +1,16 @@
+PODS:
+  - ShayleeCocoaPodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - ShayleeCocoaPodLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  ShayleeCocoaPodLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShayleeCocoaPodLibrary: d8207722191efd6aee340f5f64f671e15d1769ac
+
+PODFILE CHECKSUM: 203b97b39645ea8adb0468c303d7b9d637e0a43f
+
+COCOAPODS: 1.5.3

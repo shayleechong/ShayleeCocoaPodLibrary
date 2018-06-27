@@ -1,0 +1,6 @@
+framework module ShayleeCocoaPodLibrary {
+  umbrella header "ShayleeCocoaPodLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

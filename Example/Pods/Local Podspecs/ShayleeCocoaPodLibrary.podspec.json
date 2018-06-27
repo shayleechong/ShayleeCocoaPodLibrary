@@ -1,0 +1,22 @@
+{
+  "name": "ShayleeCocoaPodLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of ShayleeCocoaPodLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hui Yee/ShayleeCocoaPodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hui Yee": "huiyee.chong@techstudio.com.sg"
+  },
+  "source": {
+    "git": "https://github.com/Hui Yee/ShayleeCocoaPodLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShayleeCocoaPodLibrary/Classes/**/*"
+}
