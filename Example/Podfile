@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ShayleeCocoaPodLibrary_Example' do
+  pod 'ShayleeCocoaPodLibrary', :path => '../'
+
+  target 'ShayleeCocoaPodLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
